@@ -31,7 +31,7 @@ Hosted automation platforms like Zapier charge per task and hold your workflows 
 
 This software is proprietary to BlackRoad OS, Inc. See [LICENSE](LICENSE) for full terms.
 
-Public code is not open source. You may view and learn from this code. Commercial use, forking, and redistribution are prohibited.
+Public code is not open-access. You may view and learn from this code. Commercial use, forking, and redistribution are prohibited.
 
 ---
 
