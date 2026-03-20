@@ -14,7 +14,7 @@ Hosted automation platforms like Zapier charge per task and hold your workflows 
 
 | Road Name | Upstream | Purpose |
 |-----------|----------|---------|
-| RoadCode | Gitea | Git hosting |
+| RoadCode | (sovereign) | Git hosting |
 | OneWay | Caddy | TLS edge & reverse proxy |
 | TollBooth | WireGuard | Encrypted mesh VPN |
 | PitStop | Pi-hole | DNS filtering |
