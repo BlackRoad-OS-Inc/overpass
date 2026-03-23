@@ -1,40 +1,20 @@
-# OverPass — BlackRoad Road Fleet
+# overpass
 
-**Proprietary Software — BlackRoad OS, Inc.**
+OverPass — Sovereign workflow automation. BlackRoad fork of n8n. Self-hosted automation engine.
 
-## What is OverPass?
+## Organization
 
-OverPass is BlackRoad's sovereign workflow automation solution, forked from n8n. It runs on BlackRoad hardware as part of the Road Fleet — our self-hosted infrastructure stack that eliminates cloud dependency.
+**BlackRoad-OS-Inc** — Corporate root — all IP, strategy, and governance
 
-## Why OverPass?
+## BlackRoad OS
 
-Hosted automation platforms like Zapier charge per task and hold your workflows hostage behind their pricing tiers. OverPass runs n8n self-hosted so our automation workflows run on our terms — unlimited executions, full data sovereignty.
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
 
-## Part of the Road Fleet
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS-Inc) — This organization
 
-| Road Name | Upstream | Purpose |
-|-----------|----------|---------|
-| RoadCode | (sovereign) | Git hosting |
-| OneWay | Caddy | TLS edge & reverse proxy |
-| TollBooth | WireGuard | Encrypted mesh VPN |
-| PitStop | Pi-hole | DNS filtering |
-| Passenger | Ollama | Local AI inference |
-| RearView | Qdrant | Vector database |
-| Curb | MinIO | Object storage |
-| RoundAbout | Headscale | Mesh coordination |
-| CarPool | NATS | Pub/sub messaging |
-| OverPass | n8n | Workflow automation |
-| BackRoad | Portainer | Container management |
-| GuardRail | (custom) | AI safety guardrails |
 
-## License
 
-This software is proprietary to BlackRoad OS, Inc. See [LICENSE](LICENSE) for full terms.
 
-Public code is not open-access. You may view and learn from this code. Commercial use, forking, and redistribution are prohibited.
-
----
-
-**BlackRoad OS — Pave Tomorrow.**
-
-*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
